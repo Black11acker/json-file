@@ -1,0 +1,37 @@
+[
+   {
+     "Id":1;
+     "Ration_Card_Number":567891234;
+     "Name":"Taj";
+     "Age":27;
+     }
+     
+     {
+     "Id":2;
+     "Ration_Card_Number":123456789;
+     "Name":"Bushra";
+     "Age":22;
+     }
+     
+     {
+     "Id":3;
+     "Ration_Card_Number":111222333;
+     "Name":"Sowjanya";
+     "Age":22;
+     }
+     
+     {
+     "Id":4;
+     "Ration_Card_Number":222333444;
+     "Name":"Hemanth";
+     "Age":22;
+     }
+     
+     {
+     "Id":5;
+     "Ration_Card_Number":44455566;
+     "Name":"Sumanth";
+     "Age":23;
+     }
+     
+]
